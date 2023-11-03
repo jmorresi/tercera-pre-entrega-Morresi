@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "timess";
+    src: url(../Fonts/times_sans_serif/TIMESS__.ttf);
+}
+
+
+body {
+    font-family: sans-serif Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+h1 {
+font-family: "timess";
+color: rgb(214, 3, 133);
+}
+
+#historia {
+    font-style: oblique; font-size: 1.4rem
+    ;
+}
+
+.borde-redondo {
+    border-radius: 15px; background-color: rgb(182, 7, 7) ;
+}
+
+#top {
+    background-color: rgb(182, 7, 7) ;
+    ;
+
+}
+
+nav.navegacion { /*especificidad*/
+    width: 100%;
+    height: 60px;
+    background-color: rgb(212, 212, 162);
+
+}
