@@ -15,7 +15,7 @@ body {
 
 h1 {
 font-family: "timess";
-color: rgb(214, 3, 133);
+color: black;
 }
 
 #historia {
@@ -37,9 +37,5 @@ nav.navegacion { /*especificidad*/
     width: 100%;
     height: 60px;
     background-color: rgb(212, 212, 162);
-
-}
-
-#logo {
 
 }
