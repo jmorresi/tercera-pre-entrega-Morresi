@@ -3,6 +3,16 @@
     font-family: "timess";
     src: url(../Fonts/times_sans_serif/TIMESS__.ttf);
 }
+
+.container {
+    margin-left: 40%;
+}
+.logo {
+    width: 10% ;
+    position: relative;
+    margin-left: 45%;
+}
+
 nav {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
