@@ -1,10 +1,8 @@
 {
 	"folders": [
 		{
-			"path": ".git"
+			"path": "."
 		}
 	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "proyecto y pre-entrega"
-	}
+	"settings": {}
 }
