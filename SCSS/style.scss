@@ -8,6 +8,14 @@ nav {
     margin-left: 37%
 }
 
+.navegacion {
+    display: inline;
+}
+
+section a {
+    display: inline;
+}
+
 .logo {
     width: 10% ;
     position: relative;
@@ -37,11 +45,6 @@ p {
     margin-left: 40%;
 }
 
-.logo {
-    width: 10% ;
-    position: relative;
-    margin-left: 45%;
-}
 
 nav {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -90,32 +93,19 @@ p {
     font-style: oblique;
 }
 
-.contacto {
-    text-align: center ;
-}
-
-@font-face {
-    font-family: "timess";
-    src: url(../Fonts/times_sans_serif/TIMESS__.ttf);
-}
 
 .container {
     margin-left: 40%;
 }
-.logo {
-    width: 10% ;
-    position: relative;
-    margin-left: 45%;
-}
+
 
 nav {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.logo {
-    width: 10%;
-}
+
 nav { 
     text-align: center; 
+    display: inline;
 }
 
 
@@ -129,6 +119,7 @@ body {
     margin-left: 20%;
     margin-right: 20%;
 }
+
 h1 {
 font-family: "timess";
 color: black; 
@@ -146,9 +137,6 @@ article {
 
 }
 
-.img-small {
-width: 700px;
-}
 
 p {
     font-style: oblique;
@@ -157,3 +145,8 @@ p {
 .contacto {
     text-align: center ;
 }
+
+footer {
+    text-align: center ;
+}
+
