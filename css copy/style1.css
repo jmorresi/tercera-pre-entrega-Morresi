@@ -1,36 +1,7 @@
+
 @font-face {
     font-family: "timess";
     src: url(../Fonts/times_sans_serif/TIMESS__.ttf);
-}
-
-nav {
-    font-family: "timess";
-    margin-left: 37%
-}
-
-.logo {
-    width: 10% ;
-    position: relative;
-    margin-left: 45%;
-}
-
-body {
-    background-color: bisque;
-}
-
-header{
-    width: 20%;
-    height: 30%;
-    margin-left: 40%;
-}
-
-h2 {
-    font-family: "timess" ;
-    margin-left: 43%;
-}
-
-p {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .container {
@@ -91,3 +62,5 @@ p {
 .contacto {
     text-align: center ;
 }
+
+
