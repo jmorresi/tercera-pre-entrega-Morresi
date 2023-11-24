@@ -4,6 +4,10 @@
     src: url(../Fonts/times_sans_serif/TIMESS__.ttf);
 }
 
+nav {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center; 
+}
 
 .container {
     margin-left: 40%;
@@ -15,17 +19,11 @@
     margin-left: 45%;
 }
 
-nav {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-nav { 
-    text-align: center; 
-}
 
 
 body {
     font-family: sans-serif Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
 }
 
 
@@ -51,14 +49,11 @@ article {
     width: 100%;
 }
 
-.borde-redondo {
-    border-radius: 15px;
-    position: relative;
-
-}
-
 .img-small {
-width: 700px;
+text-align: center;
+width: 600px;
+border-radius: 15px;
+
 }
 
 p {
@@ -66,6 +61,11 @@ p {
     text-align: center;
 }
 
+p .centrado {
+        padding-top: 5%;
+    }
+
 .contacto {
     text-align: center ;
+
 }
