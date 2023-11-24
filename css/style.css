@@ -2,46 +2,14 @@
   font-family: "timess";
   src: url(../Fonts/times_sans_serif/TIMESS__.ttf);
 }
-nav {
-  font-family: "timess";
-  margin-left: 37%;
-}
-
-.navegacion {
-  display: inline;
-}
-
-section a {
-  display: inline;
+.container {
+  margin-left: 40%;
 }
 
 .logo {
-  width: 40%;
+  width: 10%;
   position: relative;
-  margin-left: 40%;
-}
-
-body {
-  background-color: bisque;
-}
-
-header {
-  width: 20%;
-  height: 30%;
-  margin-left: 40%;
-}
-
-h2 {
-  font-family: "timess";
-  margin-left: 43%;
-}
-
-p {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-}
-
-.container {
-  margin-left: 40%;
+  margin-left: 45%;
 }
 
 nav {
@@ -64,6 +32,10 @@ body {
 h1 {
   font-family: "timess";
   color: black;
+  text-align: center;
+}
+
+h2 {
   text-align: center;
 }
 
@@ -83,55 +55,10 @@ article {
 
 p {
   font-style: oblique;
-}
-
-.container {
-  margin-left: 40%;
-}
-
-nav {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-}
-
-nav {
   text-align: center;
-  display: inline;
-}
-
-body {
-  font-family: sans-serif Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.centrado {
-  margin-left: 20%;
-  margin-right: 20%;
-}
-
-h1 {
-  font-family: "timess";
-  color: black;
-  text-align: center;
-}
-
-article {
-  text-align: center;
-  width: 100%;
-}
-
-.borde-redondo {
-  border-radius: 15px;
-  position: relative;
-}
-
-p {
-  font-style: oblique;
 }
 
 .contacto {
-  text-align: center;
-}
-
-footer {
   text-align: center;
 }
 
