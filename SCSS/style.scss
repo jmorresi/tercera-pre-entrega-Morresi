@@ -41,20 +41,28 @@
                     
             }
 
-
+body {
+    background-color: antiquewhite;
+}
 header{
     display: grid;
     place-items: center;
+    background-color: beige;
 }
 
 .logo {
     width: 250px;
 }
+
 nav {
     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
-    background-color: white; 
+    background-color: rgb(177, 160, 160); 
+}
+
+nav a:hover {
+    color: red;
 }
 
 ul {
